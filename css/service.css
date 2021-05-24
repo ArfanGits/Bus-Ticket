@@ -1,0 +1,62 @@
+body{
+    font-family: roboto;
+}
+
+header {
+	width: 100%;
+	height: 80px;
+	background: #172035;
+}
+
+#logo {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 0px;
+    position: absolute;
+    left: 0;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+	font-weight: 2em;
+	font-family: 'roboto';
+    font-size: 20px;
+	margin-right: 30px;
+    padding: 20px;
+}
+
+/*a:hover {
+    color: white;
+    background: #09568d;
+    padding: 20px;
+}*/
+
+footer {
+    width: 100%;
+    height: 80px;
+    background: #172035;
+    position: absolute;
+    top: 716px;
+    left: 0;
+}
+
+p#footer {
+    text-align: center;
+    color: white;
+    margin-top: 32px;
+    font-size: 1em;
+}
+
+.service{
+    width: 800px;
+    margin: 100px auto 0px auto;
+    border-style: outset;
+    border-width: 5px;
+    border-color: aqua;
+    padding: 50px;
+}
+.list{
+    margin: 10px;
+    padding: 20px 0px;
+}
